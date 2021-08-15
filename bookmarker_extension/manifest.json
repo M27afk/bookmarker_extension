@@ -1,0 +1,26 @@
+
+  
+{
+
+  "description": "Bookmark your favourite websites",
+  "manifest_version": 3,
+  "name": "Bookmarker!",
+  "version": "1.0",
+  
+
+
+  "action": {
+    "default_popup":"index.html",
+    "browser_style": true
+  },
+  "icons": {
+    "16": "icon/star_icon.png",
+    "48": "icon/star_icon.png",
+    "128": "icon/star_icon.png"
+  },
+  "permissions": [
+    "tabs",
+    "<all_urls>"
+  ]
+
+}
