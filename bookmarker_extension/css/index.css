@@ -1,0 +1,23 @@
+body
+{
+    min-width: 500px;
+   
+}
+
+#listEl
+{
+    list-style-type:square;
+    padding: 0; 
+    margin: 0;
+}
+
+li a
+{
+    text-decoration: none;
+    color: green;
+}
+
+li a:hover
+{
+    text-decoration: underline;
+}
