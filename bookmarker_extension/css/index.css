@@ -1,7 +1,18 @@
 body
 {
-    min-width: 500px;
+    min-width: 400px;
    
+}
+
+#addURL
+{
+    margin-top: 1em;
+}
+
+#delURL
+{
+    margin-top: 1em;
+    margin-left: 2em;
 }
 
 #listEl

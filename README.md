@@ -7,7 +7,14 @@ How to add this extension to your browser?
 -> Select 'Load Unpacked' and select the folder 'bookmarker_extension' from the location where you have extracted the .zip file.
 -> The Bookmarker! is now deployed and ready for your usage!
 
-Version 1.0
+
+
+Version 1.1.0
+Release notes:
+What's new?
+->Titles of websites added from current URL is displayed instead of URL
+->Confirm prompt is displayed before the URLs are deleted.
+->Buttons are centered.
 15/8/2021
 
 Instagram: @manushreshta27
